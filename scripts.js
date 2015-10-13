@@ -10,7 +10,8 @@ function drawChart() {
     ]);
 
     var options = {
-        title: 'Total Consumer Spending on Games 2014'
+        title: 'Total Consumer Spending on Games 2014',
+        backgroundColor: '#749EC3'
     };
 
     var chart = new google.visualization.PieChart(document.getElementById('piechart'));

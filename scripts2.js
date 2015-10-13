@@ -10,6 +10,7 @@ function drawChart() {
     var options = {
         title: 'Most Frequent Game Purchasers',
         pieHole: 0.6,
+        backgroundColor: '#749EC3',
     };
 
     var chart = new google.visualization.PieChart(document.getElementById('piechart2'));

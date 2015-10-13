@@ -1,7 +1,55 @@
-#piechart {
-    float: left;
+#tittle {
+    text-align: center;
+    background-color: #749ec3;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
-#piechart2 {
+body {
+    background-color: rgba(116, 158, 195, 0.57);
+}
+
+#body {
+    background-color: #749ec3;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    height: 1000px;
+    border-radius: 10px;
+}
+
+#graph2 {
+    top: 135px;
+    left: 720px;
+
+}
+
+#graph1 {
+    top: 135px;
+    left: 180px;
+}
+
+#text{
+    font-size: 20px;
+}
+
+#text2{
+    font-size: 20px;
+}
+
+#data {
+    width: 500px;
+    float: left;
+    margin-left: 100px;
+}
+
+#data2 {
+    width: 500px;
     float: right;
+    margin-right:100px;
+}
+
+#wut{
+
 }
